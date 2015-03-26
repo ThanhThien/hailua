@@ -21,5 +21,13 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 		$this->load->view('welcome_message');
+		$this->load->model('User');
+		if($this->User->check_auth('snoob','test'))
+		{
+			echo 'Login Success';
+		}
+		else{
+			echo 'Login insucces';
+		}
 	}
 }
