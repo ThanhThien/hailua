@@ -28,7 +28,7 @@
 	</nav>
 	</div>
 	<div class="col-md-9">
-	<?php 
+	<?php
 	foreach($products as $product):
 	?>
 	<div class="col-md-6">
@@ -82,7 +82,7 @@ Bootstrap (currently v3.3.4) has a few easy ways to quickly get started, eaotstr
       <img src="../resources/images/img4.jpg " class="img-rounded center-block" alt="...">
     </a>
 		<p>
-		Dectomax Injectable solution is a ready-to-use, colourless to pale yellow, sterile solution containing 1% w/v Doramectin (10mg/mL). 
+		Dectomax Injectable solution is a ready-to-use, colourless to pale yellow, sterile solution containing 1% w/v Doramectin (10mg/mL).
 In cattle, Dectomax is formulated to deliver the recommended dosage (200u/kg of body weight) when given by subcutaneous (SC) injection at the rate of 1mL/50kg of body weight. Dectomax® injection is indicated for the treatment and control of gastrointestinal roundworms, lungworms, sucking lice, biting lice, cattle tick and mange mites. Consult your veterinarian for assistance in the diagnosis, treatment, and control of parasitism</p>
 	</div>
 	</div>
